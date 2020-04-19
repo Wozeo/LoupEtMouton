@@ -1,4 +1,4 @@
-# LoupEtMouton
+# Loup Et Mouton
 Simulation d'une population de plante et de monton
 
 ![Image Descriptive](LoupEtMouton/resultats.PNG)
